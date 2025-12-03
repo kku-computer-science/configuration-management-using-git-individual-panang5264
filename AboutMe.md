@@ -2,3 +2,4 @@ Author : นราธิป พรหมประกาย
 Section : Sec1
 I am responsible for: Quick sort
 Team: Gitgusgud
+Semester 2/2568
